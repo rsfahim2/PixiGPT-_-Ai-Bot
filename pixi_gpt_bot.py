@@ -439,4 +439,4 @@ async def generate_referral_code(update: Update, context: ContextTypes.DEFAULT_T
         'es': (
             "**Tu sistema de referidos:**\n"
             "¡Comparte este enlace con tus amigos para ganar puntos!\n"
-            f"Tu enlace de referid
+            f"Tu enlace de referi
